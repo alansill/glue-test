@@ -246,11 +246,6 @@ The third part refers to the associations (association, composition, aggregation
 
 This section introduces the main entities of the GLUE information model. They capture the core concepts relevant in a Grid environment. The main entities SHOULD be used to derive specialized information models. In Figure 1, the classes and the related relationships are presented in the form of a UML Class Diagram.
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/glue2-1-draft-v0-5-doc0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![Figure 1 Entities and relationships for the Main Entities conceptual model](images/glue2-1-draft-v0-5-doc0.png "Figure 1 Entities and relationships for the Main Entities conceptual model")
 
 
@@ -10814,5 +10809,5 @@ The `CloudComputingVirtualAccelerator` is an entity used to describe a set of ho
    </td>
    <td>The name o
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzI0NTg3Nl19
+eyJoaXN0b3J5IjpbMTUyNzYzOTMxOCwxMjMzMjQ1ODc2XX0=
 -->
