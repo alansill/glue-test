@@ -3644,11 +3644,7 @@ When evaluating the mapping to a certain `Share` using the algorithm implied by 
 The conceptual model of the Computing Service is based on the main entities and uses specializations of the `Service`, `Endpoint`, `Share`, `Manager`, `Resource`, and `Activity` entities.  Further computing related concepts such as `Application Environment`, `Application Handle` and `Benchmark` are introduced.
 
 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/glue2-1-draft-v0-5-doc1.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/glue2-1-draft-v0-5-doc1.png "image_tooltip")
+![Figure 2 Entities and relationships for the Computing Service conceptual model](images/glue2-1-draft-v0-5-doc1.png "Figure 2 Entities and relationships for the Computing Service conceptual model")
  
 
 **Figure 2 Entities and relationships for the Computing Service conceptual model**
@@ -8352,11 +8348,7 @@ The `ToStorageService` class represents the case where a filesystem from a Stora
 The conceptual model of the Cloud Infrastructure as a Service Compute Service is based on the main entities and uses specializations of the `Service`, `Endpoint`, `Share`, `Manager` and `Resource`.  Further cloud computing related concepts such as `Compute Image`, `Compute Price` and `Benchmark` are introduced. 
 
 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/glue2-1-draft-v0-5-doc2.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/glue2-1-draft-v0-5-doc2.png "image_tooltip")
+![Figure 3 Entities and relationships for the Cloud Compute Service conceptual model](images/glue2-1-draft-v0-5-doc2.png "Figure 3 Entities and relationships for the Cloud Compute Service conceptual model")
 
 
 **Figure 3 Entities and relationships for the Cloud Compute Service conceptual model.**
@@ -10809,5 +10801,5 @@ The `CloudComputingVirtualAccelerator` is an entity used to describe a set of ho
    </td>
    <td>The name o
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzYzOTMxOCwxMjMzMjQ1ODc2XX0=
+eyJoaXN0b3J5IjpbLTM4NjcxMTQ4OSwxMjMzMjQ1ODc2XX0=
 -->
