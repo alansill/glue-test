@@ -11322,9 +11322,7 @@ The OS disk size specified in the `CloudComputingImage` is the minimum disk size
 
     1.  `CloudComputingImageAcceleratorInfo`
 
-
-```
-The CloudComputingImageAcceleratorInfo contains the information about the virtual accelerator devices required by a cloud computing image.
+The `CloudComputingImageAcceleratorInfo` contains the information about the virtual accelerator devices required by a cloud computing image.
 
 
 <table>
