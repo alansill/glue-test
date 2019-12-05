@@ -6,7 +6,7 @@ description: Section 6
 
 This section introduces the main entities of the GLUE information model. They capture the core concepts relevant in a Grid environment. The main entities SHOULD be used to derive specialized information models. In Figure 1, the classes and the related relationships are presented in the form of a UML Class Diagram.
 
-![](.gitbook/assets/0.png)
+![](.gitbook/assets/0%20%284%29.png)
 
 **Figure 1 Entities and relationships for the Main Entities conceptual model**
 
