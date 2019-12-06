@@ -36,4 +36,3 @@ This document obsoletes GFD-R-P-147.
 Abstract
 
 The GLUE specification is an information model for Grid entities described using the natural language and UML Class Diagrams. As a conceptual model, it is designed to be independent from the concrete data models adopted for its implementation. This document defines the GLUE 2.1 model by extending the GLUE 2.0 model to include Cloud resources and services. Rendering to concrete data models such XML Schema, LDAP Schema and SQL are provided in a separate document.
-
