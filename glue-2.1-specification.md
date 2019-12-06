@@ -15,7 +15,7 @@ description: GFD-R-P.xxx  Draft
 |  | Shiraz Memon\*, FZJ |
 |  | JP Navarro\*, ANL |
 |  | \*co-chairs |
-|  | °editor _\*\*_ |
+|  | °editor |
 
 Status of This Document
 
