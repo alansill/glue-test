@@ -1,12 +1,12 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [GLUE 2.1 Specification](untitled.md)
-* [Introduction and Overview](untitled-1.md)
-* [Conceptual Model of the Main Entities](untitled-2.md)
-* [Conceptual Model of the Computing Service](untitled-3.md)
-* [Conceptual Model of the Cloud Computing Service](untitled-4.md)
-* [Conceptual Model of the Storage Service](untitled-5.md)
-* [Concluding Remarks](untitled-6.md)
-* [Appendices](untitled-7.md)
+* [GLUE 2.1 Specification](glue-2.1-specification.md)
+* [Introduction and Overview](introduction-and-overview.md)
+* [Conceptual Model of the Main Entities](main-entities.md)
+* [Conceptual Model of the Computing Service](computing-service.md)
+* [Conceptual Model of the Cloud Computing Service](cloud-computing-service.md)
+* [Conceptual Model of the Storage Service](storage-service.md)
+* [Concluding Remarks](concluding-remarks.md)
+* [Appendices](appendices.md)
 
