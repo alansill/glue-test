@@ -1,25 +1,22 @@
 ---
-description: Draft
+description: GFD-R-P.xxx  Draft
 ---
 
 # GLUE 2.1 Specification
 
-**GFD-R-P.xxx                                                                               Authors:  
-Category: Recommendation                                                   Alessandro Paolini°, EGI Foundation  
-GLUE Working Group                                                                Baptiste Grenier°, EGI Foundation  
-                                                                                                      Enol Fernandez°, EGI Foundation  
-                                                                                                      Paolo Andreetto°, INFN-PADOVA  
-https://redmine.ogf.org/projects/glue-wg/                          Marco Verlato°, INFN-PADOVA  
-                                                                                                      Stephen Burke, RAL  
-                                                                                                      Shiraz Memon\*, FZJ  
-                                                                                                      JP Navarro\*, ANL**
+| GLUE Working Group |  **Authors:** |
+| :--- | :--- |
+| Category: Recommendation | Alessandro Paolini°, EGI Foundation |
+| https://redmine.ogf.org/projects/glue-wg/ | Baptiste Grenier°, EGI Foundation |
+| Jul 13th, 2018 | Enol Fernandez°, EGI Foundation |
+|  | Paolo Andreetto°, INFN-PADOVA |
+|  | Marco Verlato°, INFN-PADOVA |
+|  | Stephen Burke, RAL |
+|  | Shiraz Memon\*, FZJ |
+|  | JP Navarro\*, ANL |
+|  | \*co-chairs |
+|  |  °editor **** |
 
-                                                                                                      **\*co-chairs  
-                                                                                                      °editor**  
-
-
-**Jul 13th, 2018**  
-  
 Status of This Document
 
 This document provides information to the Grid community regarding the specification of the GLUE information model. Distribution is unlimited.
