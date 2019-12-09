@@ -2,13 +2,11 @@
 description: Sections 10-17
 ---
 
-# Concluding Remarks
-
-##  Relationship to OGF Reference Model
+#  10. Relationship to OGF Reference Model
 
 In this section, we describe the integration of the GLUE information model with the OGF Reference Model \[RM\]. The reference model defines the concept of Grid Component. In GLUE, a root concept called Entity is defined. Such a root concept MAY be defined as a specialization of the Grid Component concept, that means that all properties are inherited by the GLUE classes. In Figure 5, we represent this relationship by a UML class diagram.
 
-![](.gitbook/assets/0%20%283%29.png)
+![test](.gitbook/assets/0%20%283%29.png)
 
 **Figure 5 GLUE and Reference Model integration**
 
