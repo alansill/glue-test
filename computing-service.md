@@ -2,7 +2,7 @@
 description: Section 7
 ---
 
-# Conceptual Model of the Computing Service
+# 7. Conceptual Model of the Computing Service
 
 The conceptual model of the Computing Service is based on the main entities and uses specializations of the Service, Endpoint, Share, Manager, Resource, and Activity entities.  Further computing related concepts such as ApplicationEnvironment, ApplicationHandle and Benchmark are introduced.
 
