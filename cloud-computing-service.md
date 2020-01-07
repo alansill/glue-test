@@ -2,7 +2,7 @@
 description: Section 8
 ---
 
-# 8. Conceptual Model of the Cloud Computing Service
+# Conceptual Model of the Cloud Computing Service
 
 The conceptual model of the Cloud Infrastructure as a Service is based on the main entities and uses specializations of the Service, Endpoint, Share, Manager and Resource.  Further cloud computing related concepts such as ComputingImage, ServicePrice and Benchmark are introduced.
 

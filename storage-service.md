@@ -2,7 +2,7 @@
 description: Section 9
 ---
 
-# 9. Conceptual Model of the Storage Service
+# Conceptual Model of the Storage Service
 
 The conceptual model of the Storage Service is based on the main entities and uses specializations of the Service, Endpoint, Share, Manager, Resource, and Activity entities.  Further storage-related concepts such as StorageServiceCapacity, StorageShareCapacity and StorageAccessProtocol are also introduced.
 

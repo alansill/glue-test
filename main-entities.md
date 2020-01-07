@@ -101,7 +101,7 @@ The Entity class is the root entity from which all the GLUE classes inherit \(an
         <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>## Extension
+</table>## 6.2 Extension
 
 The Extension class provides a general mechanism to add key/value pairs to GLUE classes when suitable specific attributes are not present. The creation time and validity of each Extension instance are those of the extended class instance.
 

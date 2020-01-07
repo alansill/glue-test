@@ -2,7 +2,7 @@
 description: Sections 10-17
 ---
 
-# 10. Concluding Remarks
+#  10. Relationship to OGF Reference Model
 
 In this section, we describe the integration of the GLUE information model with the OGF Reference Model \[RM\]. The reference model defines the concept of Grid Component. In GLUE, a root concept called Entity is defined. Such a root concept MAY be defined as a specialization of the Grid Component concept, that means that all properties are inherited by the GLUE classes. In Figure 5, we represent this relationship by a UML class diagram.
 
@@ -40,7 +40,7 @@ No explicit description of the agents that publish information is included withi
 
 In general, support for peer-entity authentication is delegated to the concrete data model or the underpinning software. In many cases the agents will act on behalf of some AdminDomain; if so, elements of peer entity authentication \(e.g., public/private key-pairs\) MAY be included using the described schema extension mechanisms provided issues with data integrity are understood.
 
-### Non-repudiation
+###  Non-repudiation
 
 The GLUE conceptual model contains no explicit description of the publishing agents that provide GLUE information. This prevents explicitly support for non-repudiation. In many cases a set of publishing agents will provide information for Services in some AdminDomain. If so, then it is the AdminDomain that asserts the non-repudiation of the data the publishing agents provide.
 
@@ -66,7 +66,7 @@ The GLUE conceptual model provides no mechanism for describing appropriate usage
 
 Individual grids MAY describe what they consider appropriate usage of GLUE information and implement appropriate procedures to ensure this policy is enacted.
 
-### Specific attacks
+###  Specific attacks
 
 RFC-3552 describes several specific attacks that MUST be considered. These are detailed below.
 
@@ -106,6 +106,7 @@ A Denial of Service attack is one that attempts to prevent normal operation of s
 
 ## Author Information
 
+  
 Stephen Burke
 
 Science and Technology Facilities Council
@@ -211,19 +212,19 @@ The limited permissions granted above are perpetual and will not be revoked by t
 
 \[GLUE-WG\] The GLUE Working Group of OGF, [_https://redmine.ogf.org/projects/glue-wg_](https://redmine.ogf.org/projects/glue-wg)
 
-\[GLUE-USECASES\] GLUE 2.0 Use Cases \(early draft\), [https://redmine.ogf.org/dmsf\_files/126?download=](https://redmine.ogf.org/dmsf_files/126?download=)
+\[GLUE-USECASES\] GLUE 2.0 Use Cases \(early draft\), _https://redmine.ogf.org/dmsf\_files/126?download=_
 
-\[GLUE-REAL\] GLUE 2.0 – Reference Realizations to Concrete Data Models, [https://redmine.ogf.org/dmsf/glue-wg?folder\_id=17](https://redmine.ogf.org/dmsf/glue-wg?folder_id=17)
+\[GLUE-REAL\] GLUE 2.0 – Reference Realizations to Concrete Data Models, https://redmine.ogf.org/dmsf/glue-wg?folder\_id=17
 
-\[GLUE-1.x\] The GLUE Schema 1.3, [https://redmine.ogf.org/dmsf\_files/61?download=](https://redmine.ogf.org/dmsf_files/61?download=)
+\[GLUE-1.x\] The GLUE Schema 1.3, _https://redmine.ogf.org/dmsf\_files/61?download=_
 
-\[GLUE-2.0\] The GLUE Schema 2.0, [https://www.ogf.org/documents/GFD.147.pdf](https://www.ogf.org/documents/GFD.147.pdf)
+\[GLUE-2.0\] The GLUE Schema 2.0, https://www.ogf.org/documents/GFD.147.pdf
 
-\[NG-SCHEMA\] The NorduGrid/ARC Information System, NORDUGRID-TECH 4,[http://www.nordugrid.org/documents/arc\_infosys.pdf](http://www.nordugrid.org/documents/arc_infosys.pdf)
+\[NG-SCHEMA\] The NorduGrid/ARC Information System, NORDUGRID-TECH 4,_http://www.nordugrid.org/documents/arc\_infosys.pdf_
 
-\[NAREGI-SCHEMA\] NAREGI information and data model, [https://redmine.ogf.org/dmsf/glue-wg?folder\_id=19](https://redmine.ogf.org/dmsf/glue-wg?folder_id=19)
+\[NAREGI-SCHEMA\] NAREGI information and data model, _https://redmine.ogf.org/dmsf/glue-wg?folder\_id=19_
 
-\[OGF-TS\] Technical Strategy for the Open Grid Forum 2007-2010. GFD-I.113. [http://www.ogf.org/documents/GFD.113.pdf](http://www.ogf.org/documents/GFD.113.pdf)
+ \[OGF-TS\] Technical Strategy for the Open Grid Forum 2007-2010. GFD-I.113. [http://www.ogf.org/documents/GFD.113.pdf](http://www.ogf.org/documents/GFD.113.pdf)
 
 \[XSRL\] NorduGrid XRSL \(Extended Resource Specification Language\) - [http://www.nordugrid.org/documents/xrsl.pdf](http://www.nordugrid.org/documents/xrsl.pdf)
 
@@ -237,7 +238,7 @@ IETF RFC 3986. Jan 2005. [http://www.ietf.org/rfc/rfc3986.txt](http://www.ietf.o
 
 \[SRMV2\] Storage Resource Manager Interface Specification V2.2. [http://sdm.lbl.gov/srm-wg/doc/SRM.v2.2.html](http://sdm.lbl.gov/srm-wg/doc/SRM.v2.2.html)
 
-\[CREAM\] gLite CREAM \(Computing Resource Execution And Management\). [https://wiki.italiangrid.it/CREAM](https://wiki.italiangrid.it/CREAM)
+\[CREAM\] gLite CREAM \(Computing Resource Execution And Management\). _https://wiki.italiangrid.it/CREAM_
 
 \[GRAM\] Globus Resource Allocation Protocol. [http://www.globus.org/api/c-globus-2.2/globus\_gram\_documentation/html/index.html](http://www.globus.org/api/c-globus-2.2/globus_gram_documentation/html/index.html)
 
